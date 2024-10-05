@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_majalengka/DetailScreen.dart';
+import 'package:wisata_majalengka/detail_screen.dart';
 
 void main() {
   runApp(const MyApp());
